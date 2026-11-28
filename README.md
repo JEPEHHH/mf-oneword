@@ -1,3 +1,14 @@
+# mf-oneword
+
+[![make.fun](https://make.fun/badge/oneword.svg)](https://make.fun/bounty/oneword)
+[![rank](https://make.fun/badge/oneword/JEPEHHH/mf-oneword/rank.svg)](https://make.fun/bounty/oneword)
+[![reward](https://make.fun/badge/oneword/JEPEHHH/mf-oneword/reward.svg)](https://make.fun/bounty/oneword)
+
+oneword
+
+
+---
+
 # One Word, One Username, One Reward
 
 Entry for the make.fun bounty "One Word, One Username, One Reward".
